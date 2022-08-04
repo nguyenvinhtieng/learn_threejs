@@ -5,8 +5,8 @@ import gsap from "gsap";
 import * as lil from "lil-gui";
 
 /**
- * Debug
- */
+* Debug
+*/
 // const gui = new lil.GUI();
 // const parameters = {
 //   color: 0xff0000,
@@ -18,6 +18,7 @@ import * as lil from "lil-gui";
 //   material.color = new THREE.Color(parameters.color);
 // });
 // gui.add(parameters, "spin");
+
 /**
  * Base
  */
